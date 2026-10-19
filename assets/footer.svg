@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="presentation" aria-hidden="true">
+  <path d="M0,62 Q125,44 250,62 T500,62 T750,62 T1000,62 T1250,62 T1500,62 T1750,62 T2000,62 V120 H0 Z" fill="#1f6feb" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="14s" repeatCount="indefinite"/></path>
+  <path d="M0,72 Q62.5,60 125,72 T250,72 T375,72 T500,72 T625,72 T750,72 T875,72 T1000,72 T1125,72 T1250,72 T1375,72 T1500,72 T1625,72 T1750,72 T1875,72 T2000,72 V120 H0 Z" fill="#2f81f7" fill-opacity="0.35"><animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/></path>
+  <path d="M0,84 Q125,70 250,84 T500,84 T750,84 T1000,84 T1250,84 T1500,84 T1750,84 T2000,84 V120 H0 Z" fill="#39d0d8" fill-opacity="0.25"><animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="11s" repeatCount="indefinite"/></path>
+</svg>
