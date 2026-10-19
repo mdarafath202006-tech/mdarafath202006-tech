@@ -58,9 +58,9 @@ If you open one repository first, make it **AI CareerVerse**. It has the tests, 
 
 ### Systems and infrastructure
 
-- **[Retrivix](https://github.com/mdarafath202006-tech/Retrivix)**: a search engine in Python covering ingestion, tokenization, an inverted index and top-K ranked retrieval with BM25 scoring, modeled on Lucene and Elasticsearch internals.
-- **[VirelyxDB](https://github.com/mdarafath202006-tech/VirelyxDB)**: a relational database engine built from scratch in Python, with a B-tree index, page-based storage, a CRUD query pipeline and write-ahead logging for crash recovery.
-- **[Loreva](https://github.com/mdarafath202006-tech/Loreva)**: a RAG backend on FastAPI that chunks, embeds, retrieves and re-ranks passages before LLM synthesis, with swappable LLM and embedding providers.
+- **[Retrivix](https://github.com/mdarafath202006-tech/Retrivix)**: a local Python search engine with document ingestion, tokenization, an inverted index, persisted indexes and top-K BM25 ranking.
+- **[VirelyxDB](https://github.com/mdarafath202006-tech/VirelyxDB)**: a Python relational-storage prototype with schema validation, JSON persistence, equality indexes, CRUD operations and a snapshot-based write-ahead-log recovery demo.
+- **[Loreva](https://github.com/mdarafath202006-tech/Loreva)**: a FastAPI RAG prototype that chunks documents, retrieves passages with BM25-style lexical scoring and returns source-grounded extractive answers. Embeddings and LLM synthesis are planned extensions.
 
 ### Archived
 
@@ -106,7 +106,7 @@ Technologies I've used in the projects above. Where I'm still early, I say so.
 
 ## Currently building and learning
 
-- **Locatrix** (in development): tracking and communication that works without GPS or internet, using dead reckoning, sensor fusion, and Bluetooth/LoRa relay to a base station
+- **Locatrix** (prototype): offline dead-reckoning simulation with heading fusion and CRC-protected location packets; real phone-sensor integration and Bluetooth/LoRa transport remain future work.
 - **Studying:** database internals, search infrastructure, and distributed-systems trade-offs
 
 ## Contact
