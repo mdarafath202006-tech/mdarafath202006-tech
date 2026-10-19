@@ -56,6 +56,19 @@ If you open one repository first, make it **AI CareerVerse**. It has the tests, 
 
 [Repository](https://github.com/mdarafath202006-tech/nexus-comply-ai)
 
+### LOCATRIX — GNSS-independent positioning prototype
+
+*A proposed multi-modal location and relay system for GNSS-degraded environments.*
+
+- Python simulation for step-based pedestrian dead reckoning, heading blending, uncertainty growth, and CRC32-protected location packets
+- Browser-based operations dashboard for illustrating device status, movement trails, packet flow, and gateway availability
+- Designed end-to-end around smartphone sensors → Bluetooth → LoRa field device → internet-connected gateway → cloud dashboard
+- **Current boundary:** the simulation and dashboard are prototypes. Live Android sensor acquisition, trained AI models, Bluetooth/LoRa hardware, and cloud ingestion are not yet integrated.
+
+**Stack:** Python · HTML · CSS · JavaScript · sensor-fusion research
+
+[Repository](https://github.com/mdarafath202006-tech/LOCATRIX-AI) · [Live dashboard preview](https://locatrix-ai.vercel.app/)
+
 ### Systems and infrastructure
 
 - **[Retrivix](https://github.com/mdarafath202006-tech/Retrivix)**: a local Python search engine with document ingestion, tokenization, an inverted index, persisted indexes and top-K BM25 ranking.
@@ -112,7 +125,7 @@ Technologies I've used in the projects above. Where I'm still early, I say so.
 
 ## Currently building and learning
 
-- **Locatrix** (prototype): offline dead-reckoning simulation with heading fusion and CRC-protected location packets; real phone-sensor integration and Bluetooth/LoRa transport remain future work.
+- **Next focus:** integrate and test real sensor inputs, then build a validated Bluetooth/LoRa packet path before claiming end-to-end tracking.
 - **Studying:** database internals, search infrastructure, and distributed-systems trade-offs
 
 ## Contact
