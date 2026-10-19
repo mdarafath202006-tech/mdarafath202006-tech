@@ -62,6 +62,12 @@ If you open one repository first, make it **AI CareerVerse**. It has the tests, 
 - **[VirelyxDB](https://github.com/mdarafath202006-tech/VirelyxDB)**: a Python relational-storage prototype with schema validation, JSON persistence, equality indexes, CRUD operations and a snapshot-based write-ahead-log recovery demo.
 - **[Loreva](https://github.com/mdarafath202006-tech/Loreva)**: a FastAPI RAG prototype that chunks documents, retrieves passages with BM25-style lexical scoring and returns source-grounded extractive answers. Embeddings and LLM synthesis are planned extensions.
 
+### Live UI previews
+
+These browser demos are useful for inspecting the interface. For Retrivix, VirelyxDB and Loreva, the hosted UI is a standalone demonstration and is not connected to the Python engine/API. LOCATRIX also uses illustrative data; it is not live tracking.
+
+- [LOCATRIX dashboard](https://locatrix-ai.vercel.app/) · [Retrivix search UI](https://retrivix-mdarafath202006.vercel.app/) · [VirelyxDB UI](https://virelyxdb-mdarafath202006.vercel.app/) · [Loreva UI](https://loreva-mdarafath202006.vercel.app/)
+
 ### Archived
 
 - **[AlumniConnect](https://github.com/mdarafath202006-tech/alumniconnect)**: an earlier Flask and MySQL mentorship prototype (TF-IDF mentor ranking, Socket.IO chat, JWT API). Archived in October 2026; its ideas continue in AI CareerVerse.
