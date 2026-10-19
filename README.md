@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&color=0:0D1117,100:2F81F7&text=Mohamed%20Arafath%20T&fontColor=ffffff&fontSize=44&fontAlignY=40&animation=fadeIn" alt="Mohamed Arafath T" width="100%">
+<img src="assets/banner.svg" alt="Mohamed Arafath T. An animated cluster of nodes: the leader fails, another node is elected, and the cluster recovers." width="100%">
 
 ### Building search, database and AI systems that keep working when parts of them fail.
 
@@ -12,7 +12,7 @@ B.Tech Information Technology student in Chennai, India. Open to SDE internships
 
 </div>
 
----
+<img src="assets/divider.svg" alt="" width="100%">
 
 I'm an IT undergraduate who prefers building systems to building demos. My projects include a search engine with BM25 ranking, a database engine with write-ahead logging, a RAG backend, a network-security compliance platform, and a Flask platform with seven Claude-powered career tools. I start from how a system should behave when something breaks, write the trade-offs down, then build to them.
 
@@ -25,6 +25,8 @@ If you open one repository first, make it **AI CareerVerse**. It has the tests, 
 - **Approach:** fallback paths before happy paths, explicit trade-offs, and reading PostgreSQL, Lucene and LevelDB internals to guide design
 - **Looking for:** SDE internships
 - **Worth a click:** my [portfolio](https://mdarafath202006-tech.github.io/Mohamed-Arafath-Portfolio/) background is a small cluster. Fail a node and watch it recover.
+
+<img src="assets/divider.svg" alt="" width="100%">
 
 ## Featured projects
 
@@ -64,6 +66,8 @@ If you open one repository first, make it **AI CareerVerse**. It has the tests, 
 
 - **[AlumniConnect](https://github.com/mdarafath202006-tech/alumniconnect)**: an earlier Flask and MySQL mentorship prototype (TF-IDF mentor ranking, Socket.IO chat, JWT API). Archived in October 2026; its ideas continue in AI CareerVerse.
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ## Tech stack
 
 Technologies I've used in the projects above. Where I'm still early, I say so.
@@ -98,6 +102,8 @@ Technologies I've used in the projects above. Where I'm still early, I say so.
 
 **Exploring:** gRPC, Azure AI Foundry (Microsoft Virtual Training Day: Build Agentic AI Solutions)
 
+<img src="assets/divider.svg" alt="" width="100%">
+
 ## Currently building and learning
 
 - **Locatrix** (in development): tracking and communication that works without GPS or internet, using dead reckoning, sensor fusion, and Bluetooth/LoRa relay to a base station
@@ -111,3 +117,5 @@ Technologies I've used in the projects above. Where I'm still early, I say so.
 [![Résumé](https://img.shields.io/badge/Résumé-4B5563?style=flat-square)](https://mdarafath202006-tech.github.io/Mohamed-Arafath-Resume/)
 
 Open to SDE internships. Email is the fastest way to reach me.
+
+<img src="assets/footer.svg" alt="" width="100%">
